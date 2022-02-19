@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: large;
+}
+nav {
+    background-color: beige;
+    height: 2em;
+}
+footer {
+    background-color: beige;
+    height: 2em;
+}
